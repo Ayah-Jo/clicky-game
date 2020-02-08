@@ -1,0 +1,152 @@
+[
+  {
+    "id": "0",
+    "name": "Microsoft",
+    "imageSrc": "./img/Microsoft.jpg",
+    "clicked": false
+  },
+  {
+    "id": "1",
+    "name": "gitlab",
+    "imageSrc": "./img/gitlab.jpg",
+    "clicked": false
+  },
+  {
+    "id": "2",
+    "name": "google",
+    "imageSrc": "./img/google.png",
+    "clicked": false
+  },
+  {
+    "id": "3",
+    "name": "ebay",
+    "imageSrc": "./img/ebay.jpg",
+    "clicked": false
+  },
+  {
+    "id": "4",
+    "name": "instagram",
+    "imageSrc": "./img/Instagram.jpg",
+    "clicked": false
+  },
+  {
+    "id": "5",
+    "name": "Javascript",
+    "imageSrc": "./img/Javascript.jpg",
+    "clicked": false
+  },
+  {
+    "id": "6",
+    "name": "html",
+    "imageSrc": "./img/html.png",
+    "clicked": false
+  },
+  {
+    "id": "7",
+    "name": "netflix",
+    "imageSrc": "./img/netlfix.png",
+    "clicked": false
+  },
+  {
+    "id": "8",
+    "name": "python",
+    "imageSrc": "./img/python.png",
+    "clicked": false
+  },
+  {
+    "id": "9",
+    "name": "Skype",
+    "imageSrc": "./img/Skype.jpg",
+    "clicked": false
+  },
+  {
+    "id": "10",
+    "name": "slack",
+    "imageSrc": "./img/slack.png",
+    "clicked": false
+  },
+  {
+    "id": "11",
+    "name": "tesla",
+    "imageSrc": "./img/tesla.jpg",
+    "clicked": false
+  },
+  {
+    "id": "12",
+    "name": "vuejs",
+    "imageSrc": "./img/vuejs.jpg",
+    "clicked": false
+  },
+  {
+    "id": "13",
+    "name": "Oracle",
+    "imageSrc": "./img/oracle.jpg",
+    "clicked": false
+  },
+  {
+    "id": "14",
+    "name": "node",
+    "imageSrc": "./img/node.jpg",
+    "clicked": false
+  },
+  {
+    "id": "15",
+    "name": "salesforce",
+    "imageSrc": "./img/Salesforce.jpg",
+    "clicked": false
+  },
+  {
+    "id": "16",
+    "name": "git",
+    "imageSrc": "./img/git.jpg",
+    "clicked": false
+  },
+  {
+    "id": "17",
+    "name": "explorer",
+    "imageSrc": "./img/explorer.jpg",
+    "clicked": false
+  },
+  {
+    "id": "18",
+    "name": "amazon",
+    "imageSrc": "./img/amazon.jpg",
+    "clicked": false
+  },
+  {
+    "id": "19",
+    "name": "asana",
+    "imageSrc": "./img/asana.png",
+    "clicked": false
+  },
+  {
+    "id": "20",
+    "name": "apple",
+    "imageSrc": "./img/apple.jpg",
+    "clicked": false
+  },
+  {
+    "id": "21",
+    "name": "css",
+    "imageSrc": "./img/css.png",
+    "clicked": false
+  },
+  {
+    "id": "22",
+    "name": "hp",
+    "imageSrc": "./img/hp.jpg",
+    "clicked": false
+  },
+  {
+    "id": "23",
+    "name": "lg",
+    "imageSrc": "./img/lg.jpeg",
+    "clicked": false
+  },
+  {
+    "id": "vsc",
+    "name": "unicorn",
+    "imageSrc": "./img/vsc.jpg",
+    "clicked": false
+  }
+]
